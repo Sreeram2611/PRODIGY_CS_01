@@ -26,7 +26,7 @@ This Python script implements the **Caesar Cipher** — a simple encryption algo
 
 1. Run the script:
    ```bash
-   python caesar_cipher.py
+   caesar_cipher.py
 Choose e to encrypt or d to decrypt
 
 Enter your message and shift value
