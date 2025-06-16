@@ -35,9 +35,7 @@ Enter your message and shift value
 See the result in the terminal
 
 💬 Example
-pgsql
-Copy
-Edit
+```pgsql
 Enter 'e' or 'd': e  
 Message: Hello, World!  
 Shift: 3  
