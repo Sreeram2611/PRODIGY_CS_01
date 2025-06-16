@@ -1,7 +1,6 @@
-# PRODIGY_CS_01
-Task 1 - Caesar Cipher Program
+# 🔐 Task 1
 
-# 🔐 Task 1 - Caesar Cipher Program
+# Caesar Cipher Program
 
 This Python script implements the **Caesar Cipher** — a simple encryption algorithm that shifts each letter in the message by a user-defined value.
 
